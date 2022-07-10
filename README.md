@@ -1,12 +1,15 @@
 <div align="left">
-- 👋 Hi, I’m @jacksongreyrat
-- 👀 I’m interested in Web Developer, Web 3.0, Smart Contract and Crypto Technology.
-- 🌱 I’m currently learning Web Developer.
-- 📫 How to reach me => jacksongreyrat@gmail.com
+  <h1>- 👋 Hi, I’m @jacksongreyrat</h1>
+  <h2>- 👀 I’m interested in Web Developer, Web 3.0, Smart Contract and Crypto Technology.</h2>
+  <h3>- 🌱 I’m currently learning Web Developer.</h3>
+  <h4>- 📫 How to reach me => jacksongreyrat@gmail.com</h4>
+    
+<a href="https://app.daily.dev/jacksongreyrat" target="_blank">
+  <img src="https://api.daily.dev/devcards/8a272dd6b3594cf7bad51e59a93b0f1f.png?r=iep" 
+       width="400" 
+       align="right"
+       alt="Jackson Greyrat's Dev Card"/></a>
 </div>
-
-<a href="https://app.daily.dev/jacksongreyrat"><img src="https://api.daily.dev/devcards/8a272dd6b3594cf7bad51e59a93b0f1f.png?r=iep" width="400" alt="Jackson Greyrat's Dev Card"/></a>
-
 
 <!---
 jacksongreyrat/jacksongreyrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
