@@ -6,7 +6,7 @@
 <a href="https://app.daily.dev/jacksongreyrat" target="_blank">
   <img src="https://api.daily.dev/devcards/8a272dd6b3594cf7bad51e59a93b0f1f.png?r=iep" 
        width="400" 
-       align="right"
+       align="center"
        alt="Jackson Greyrat's Dev Card"/></a>
 </div>
 
