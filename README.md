@@ -1,5 +1,7 @@
+**Retarded, wanna be, dev**
 - AI/ML/LLM enthusiasts
-- Crypto since 2021
+- Crypto trader since 2021
+- Data analysis
 - Cybersecurity
 <!---
 jacksongreyrat/jacksongreyrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
